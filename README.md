@@ -1,12 +1,12 @@
-#Game of Life in Zennoh Viewer
+# Game of Life on BiCAmon
 
-##Instruction
+## Instruction
 
 ```
 $ git clone https://github.com/kiyomaro927/lgviewer.git
 ```
 
-##Run
+## Run
 
 ```
 $ python lifegame.py
